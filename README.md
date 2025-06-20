@@ -245,7 +245,7 @@ python -m secb.evaluator.view_poc_results \
 SEC-bench uses a hierarchical Docker image structure:
 
 - **Base Images**: `hwiwonlee/secb.base:*` - Foundation images with build tools
-- **Instance Images**: `hwiwonlee/secb.instance.*` - Vulnerability-specific environments  
+- **Instance Images**: `hwiwonlee/secb.x86_64.*` - Vulnerability-specific environments  
 - **Evaluation Images**: `hwiwonlee/secb.eval.x86_64.*` - Verified evaluation instances
 
 ### Image Naming Convention
