@@ -4,6 +4,7 @@
 </div>
 
 <p align="center">
+<a href="https://arxiv.org/abs/2506.11791" >📄 Paper</a>
 <a href="https://sec-bench.github.io" >📊 Leaderboard</a>
 <a href="https://hf.co/datasets/SEC-bench/SEC-bench" >🤗 Dataset</a>
 </p>
