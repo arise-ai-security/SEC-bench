@@ -1,7 +1,17 @@
 <div align="center">
   <h1>SEC-bench</h1>
   <p><strong>Automated Benchmarking of LLM Agents on Real-World Software Security Tasks</strong></p>
+  <p align="center">
+    <a href="https://hwiwonl.ee/" style="text-decoration: none;">Hwiwon Lee<sup>1</sup></a>,
+    <a href="https://ziqi-zhang.github.io/" style="text-decoration: none;">Ziqi Zhang<sup>1</sup></a>,
+    <a href="" style="text-decoration: none;">Hanxiao Lu<sup>2</sup></a>,
+    <a href="https://lingming.cs.illinois.edu/" style="text-decoration: none;">Lingming Zhang<sup>1</sup></a>
+  </p>
 </div>
+
+<p align="center">
+  <sup>1</sup>UIUC, <sup>2</sup>Purdue University
+</p>
 
 <p align="center">
 <a href="https://arxiv.org/abs/2506.11791" >📄 Paper</a>
@@ -210,7 +220,7 @@ python -m secb.evaluator.build_eval_instances \
 ```bash
 python -m secb.evaluator.eval_instances \
     --input-dir [AGENT_OUTPUT_DIR] \
-    --mode [MODE] \
+    --type [TYPE] \
     --split [SPLIT] \
     --agent [AGENT] \
     --num-workers [NUM_WORKERS] \
@@ -218,7 +228,7 @@ python -m secb.evaluator.eval_instances \
 ```
 
 **Parameters:**
-- `mode`: Evaluation mode (`patch` or `poc`)
+- `type`: Evaluation type (`patch` or `poc`)
 - `split`: Dataset split to evaluate
 - `agent`: Agent type (`swea`, `oh`, `aider`)
 - `num-workers`: Number of parallel workers
@@ -242,6 +252,9 @@ python -m secb.evaluator.view_poc_results \
 ---
 
 ## 🐳 Docker Images
+
+> [!NOTE]
+> In the Docker evaluation images, you can check a harness `secb` with options such as build, repro, and patch.
 
 SEC-bench uses a hierarchical Docker image structure:
 

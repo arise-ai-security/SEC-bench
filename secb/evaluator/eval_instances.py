@@ -1168,7 +1168,7 @@ def main():
     parser.add_argument(
         "--mode",
         choices=["strict", "medium", "generous", "all"],
-        default="all",
+        default="medium",
         help="Evaluation mode - strict: only accept exit code 0, medium: match exit code from dataset, generous: accept non-timeout exits without sanitizer errors, all: run all three modes",
     )
     parser.add_argument(
