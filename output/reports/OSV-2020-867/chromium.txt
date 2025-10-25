@@ -1,0 +1,30 @@
+Detailed report: https://oss-fuzz.com/testcase?key=5695958395912192
+
+Project: icu
+Fuzzer: libFuzzer_icu_collator_rulebased_fuzzer
+Fuzz target binary: collator_rulebased_fuzzer
+Job Type: libfuzzer_asan_icu
+Platform Id: linux
+
+Crash Type: Heap-buffer-overflow READ 4
+Crash Address: 0x614000010698
+Crash State:
+  icu_64::CollationIterator::appendCEsFromCE32
+  icu_64::DataBuilderCollationIterator::fetchCEs
+  icu_64::CollationDataBuilder::getCEs
+ 
+Sanitizer: address (ASAN)
+
+Recommended Security Severity: Medium
+
+Regressed: https://oss-fuzz.com/revisions?job=libfuzzer_asan_icu&range=201906250235:201906260234
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=5695958395912192
+
+Issue filed automatically.
+
+See https://github.com/google/oss-fuzz/blob/master/docs/reproducing.md for instructions to reproduce this bug locally.
+
+This bug is subject to a 90 day disclosure deadline. If 90 days elapse
+without an upstream patch, then the bug report will automatically
+become visible to the public.

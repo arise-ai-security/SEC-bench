@@ -1,0 +1,37 @@
+Detailed Report: https://oss-fuzz.com/testcase?key=6189139925270528
+
+Project: cyclonedds
+Fuzzing Engine: libFuzzer
+Fuzz Target: fuzz_type_object
+Job Type: libfuzzer_asan_cyclonedds
+Platform Id: linux
+
+Crash Type: Heap-buffer-overflow READ 8
+Crash Address: 0x61d000003bc8
+Crash State:
+  add_complete_typeobj
+  ddsi_xt_type_add_typeobj
+  ddsi_type_add_typeobj
+ 
+Sanitizer: address (ASAN)
+
+Recommended Security Severity: Medium
+
+Regressed: https://oss-fuzz.com/revisions?job=libfuzzer_asan_cyclonedds&range=202303140613:202303150608
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=6189139925270528
+
+Issue filed automatically.
+
+See https://google.github.io/oss-fuzz/advanced-topics/reproducing for instructions to reproduce this bug locally.
+When you fix this bug, please
+  * mention the fix revision(s).
+  * state whether the bug was a short-lived regression or an old bug in any stable releases.
+  * add any other useful information.
+This information can help downstream consumers.
+
+If you need to contact the OSS-Fuzz team with a question, concern, or any other feedback, please file an issue at https://github.com/google/oss-fuzz/issues. Comments on individual Monorail issues are not monitored.
+
+This bug is subject to a 90 day disclosure deadline. If 90 days elapse
+without an upstream patch, then the bug report will automatically
+become visible to the public.

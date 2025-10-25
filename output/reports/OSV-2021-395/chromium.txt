@@ -1,0 +1,33 @@
+Detailed Report: https://oss-fuzz.com/testcase?key=6477451536498688
+
+Project: serenity
+Fuzzing Engine: honggfuzz
+Fuzz Target: FuzzRSAKeyParsing
+Job Type: honggfuzz_asan_serenity
+Platform Id: linux
+
+Crash Type: Heap-buffer-overflow READ 1
+Crash Address: 0x6020000000dc
+Crash State:
+  Crypto::der_decode_integer
+  Crypto::der_decode_sequence
+  Crypto::der_decode_sequence_many<4ul>::operator bool
+ 
+Sanitizer: address (ASAN)
+
+Recommended Security Severity: Medium
+
+Regressed: https://oss-fuzz.com/revisions?job=honggfuzz_asan_serenity&range=202102080622:202102130619
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=6477451536498688
+
+Issue filed automatically.
+
+See https://google.github.io/oss-fuzz/advanced-topics/reproducing for instructions to reproduce this bug locally.
+When you fix this bug, please
+  * mention the fix revision(s).
+  * state whether the bug was a short-lived regression or an old bug in any stable releases.
+  * add any other useful information.
+This information can help downstream consumers.
+
+If you need to contact the OSS-Fuzz team with a question, concern, or any other feedback, please file an issue at https://github.com/google/oss-fuzz/issues. Comments on individual Monorail issues are not monitored.

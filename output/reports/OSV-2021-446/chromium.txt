@@ -1,0 +1,31 @@
+Detailed Report: https://oss-fuzz.com/testcase?key=5630927108702208
+
+Project: serenity
+Fuzzing Engine: libFuzzer
+Fuzz Target: FuzzMarkdown
+Job Type: libfuzzer_asan_serenity
+Platform Id: linux
+
+Crash Type: Global-buffer-overflow READ 1
+Crash Address: 0x0000009c9b84
+Crash State:
+  AK::StringView::operator==
+  Markdown::CodeBlock::parse
+  bool Markdown::helper<Markdown::CodeBlock>
+ 
+Sanitizer: address (ASAN)
+
+Regressed: https://oss-fuzz.com/revisions?job=libfuzzer_asan_serenity&range=202102230604:202102240611
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=5630927108702208
+
+Issue filed automatically.
+
+See https://google.github.io/oss-fuzz/advanced-topics/reproducing for instructions to reproduce this bug locally.
+When you fix this bug, please
+  * mention the fix revision(s).
+  * state whether the bug was a short-lived regression or an old bug in any stable releases.
+  * add any other useful information.
+This information can help downstream consumers.
+
+If you need to contact the OSS-Fuzz team with a question, concern, or any other feedback, please file an issue at https://github.com/google/oss-fuzz/issues. Comments on individual Monorail issues are not monitored.

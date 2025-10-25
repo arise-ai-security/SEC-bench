@@ -1,0 +1,1757 @@
+{
+  "processed_instances": {
+    "libexif.osv-2021-1168": {
+      "timestamp": "2025-10-24T21:47:12.116972",
+      "success": true,
+      "entry_id": "OSV-2021-1168",
+      "repo_url": "https://github.com/libexif/libexif",
+      "fixed_commit": "a4647a5463102c4b0c5a02461edd4cc085dfc1b6",
+      "introduced_commit": "ce946b93dfd34b2187d9f9fb01603943fbb32137",
+      "last_affected_commit": ""
+    },
+    "simdutf.osv-2024-1034": {
+      "timestamp": "2025-10-24T21:47:12.170250",
+      "success": true,
+      "entry_id": "OSV-2024-1034",
+      "repo_url": "https://github.com/simdutf/simdutf",
+      "fixed_commit": "17804069551439ef292c6044920f446e97eb7004",
+      "introduced_commit": "e8ce8f25aa5683d37dc44510c99fc776ac9b27cb",
+      "last_affected_commit": ""
+    },
+    "mruby.osv-2020-739": {
+      "timestamp": "2025-10-24T21:47:12.218559",
+      "success": true,
+      "entry_id": "OSV-2020-739",
+      "repo_url": "https://github.com/mruby/mruby",
+      "fixed_commit": "45aa5081e418423b47a32a06e0515406f63b64d2",
+      "introduced_commit": "caba5fef274ab7df91b7247182ecbf2483b853b8",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2022-1078": {
+      "timestamp": "2025-10-24T21:47:12.266688",
+      "success": true,
+      "entry_id": "OSV-2022-1078",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "63794a2471b426ff4268de6982e8a6f711163e2e",
+      "introduced_commit": "e53e15c72e630d6478f30e8c2c90ace96cd69a72",
+      "last_affected_commit": ""
+    },
+    "libavc.osv-2023-1208": {
+      "timestamp": "2025-10-24T21:47:12.314691",
+      "success": true,
+      "entry_id": "OSV-2023-1208",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "fixed_commit": "e49a9150a3b1cfc3fb9097ca02dd042e35226129",
+      "introduced_commit": "b2a61a152a5e83b3419212e8d15a10d4488e51d9",
+      "last_affected_commit": ""
+    },
+    "selinux.osv-2021-902": {
+      "timestamp": "2025-10-24T21:47:12.362623",
+      "success": true,
+      "entry_id": "OSV-2021-902",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "fixed_commit": "9af91692416d01814f4b2ac22e39d3b57993af4f",
+      "introduced_commit": "37863b0b1444c85a1ddc6c333c8bfea0c678c592",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2023-458": {
+      "timestamp": "2025-10-24T21:47:12.411456",
+      "success": true,
+      "entry_id": "OSV-2023-458",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "af3fdf1f9e09fb7e47d4528d81fd510730b80745",
+      "introduced_commit": "3d08a2f10cada7c72513d9491ddf66820ef008fb",
+      "last_affected_commit": ""
+    },
+    "espeak-ng.osv-2021-810": {
+      "timestamp": "2025-10-24T21:47:12.457366",
+      "success": true,
+      "entry_id": "OSV-2021-810",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "fixed_commit": "7f1222c6ad6a3652be35afbbc980a382076ff0a9",
+      "introduced_commit": "0a713d52bbf3e061823d1a7f35e5303e7320f27a",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-618": {
+      "timestamp": "2025-10-24T21:47:12.458643",
+      "success": false,
+      "entry_id": "OSV-2022-618",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "jsoncons.osv-2021-703": {
+      "timestamp": "2025-10-24T21:47:12.507091",
+      "success": true,
+      "entry_id": "OSV-2021-703",
+      "repo_url": "https://github.com/danielaparker/jsoncons",
+      "fixed_commit": "e0ee905e3e2f2997606f146370af6a5d448aafe5",
+      "introduced_commit": "39a59991dff68d488432f59c9bca60001c501d69",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2022-1107": {
+      "timestamp": "2025-10-24T21:47:12.550501",
+      "success": true,
+      "entry_id": "OSV-2022-1107",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "63794a2471b426ff4268de6982e8a6f711163e2e",
+      "introduced_commit": "e53e15c72e630d6478f30e8c2c90ace96cd69a72",
+      "last_affected_commit": ""
+    },
+    "libexif.osv-2021-1152": {
+      "timestamp": "2025-10-24T21:47:12.595613",
+      "success": true,
+      "entry_id": "OSV-2021-1152",
+      "repo_url": "https://github.com/libexif/libexif",
+      "fixed_commit": "d61e9aaddf4f8af5aecea4935f8feb59f42141c1",
+      "introduced_commit": "22799320cc1187868d9a572661d12f0c3f9939b5",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2020-484": {
+      "timestamp": "2025-10-24T21:47:12.644005",
+      "success": true,
+      "entry_id": "OSV-2020-484",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "cc8e9a436fa408a1c63f4b9afb7643cea76a079c",
+      "introduced_commit": "4009a05ca7de21fff2176621597cd0cd01e9d80e",
+      "last_affected_commit": ""
+    },
+    "openjpeg.osv-2017-35": {
+      "timestamp": "2025-10-24T21:47:12.694100",
+      "success": true,
+      "entry_id": "OSV-2017-35",
+      "repo_url": "https://github.com/uclouvain/openjpeg",
+      "fixed_commit": "a55c024fc6b917a409b85aeafd7326421c4aea34",
+      "introduced_commit": "5d403250561398f7ba3041d9eb8c893bd680dd72",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2023-90": {
+      "timestamp": "2025-10-24T21:47:12.738699",
+      "success": true,
+      "entry_id": "OSV-2023-90",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "f6a57cfb81561bb9a3bd884795896a61f65ba29e",
+      "introduced_commit": "2a9a4de21ea7f5d15314da8ee5f27feebf239655",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-638": {
+      "timestamp": "2025-10-24T21:47:12.740005",
+      "success": false,
+      "entry_id": "OSV-2022-638",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "little-cms.osv-2022-815": {
+      "timestamp": "2025-10-24T21:47:12.741281",
+      "success": false,
+      "entry_id": "OSV-2022-815",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "harfbuzz.osv-2018-159": {
+      "timestamp": "2025-10-24T21:47:12.787920",
+      "success": true,
+      "entry_id": "OSV-2018-159",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "0f85edb7781f4d5ec2de676979be75a0f6559d80",
+      "introduced_commit": "14ff3cbe0f30dea24e1bb175b1e8e41039f6afdc",
+      "last_affected_commit": ""
+    },
+    "libavc.osv-2023-86": {
+      "timestamp": "2025-10-24T21:47:12.832453",
+      "success": true,
+      "entry_id": "OSV-2023-86",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "fixed_commit": "c38af025abf0040f6693d15f4ce2e878a728cfee",
+      "introduced_commit": "e14ee149ef87f1e90b10cbda4b9d120432c8a410",
+      "last_affected_commit": ""
+    },
+    "php.osv-2021-1670": {
+      "timestamp": "2025-10-24T21:47:12.879640",
+      "success": true,
+      "entry_id": "OSV-2021-1670",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "91734fc5795bc07dc718f9d884a014a90097e56f",
+      "introduced_commit": "efb901ebedf941039241c6194c452f8a16d807aa",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2023-1117": {
+      "timestamp": "2025-10-24T21:47:12.881085",
+      "success": false,
+      "entry_id": "OSV-2023-1117",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "icu.osv-2020-867": {
+      "timestamp": "2025-10-24T21:47:12.931923",
+      "success": true,
+      "entry_id": "OSV-2020-867",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "4833cc89b2fae2e8863b46bf1dc785964847e882",
+      "introduced_commit": "6e5755a2a833bc64852eae12967d0a54d7adf629",
+      "last_affected_commit": ""
+    },
+    "libxaac.osv-2023-839": {
+      "timestamp": "2025-10-24T21:47:12.977530",
+      "success": true,
+      "entry_id": "OSV-2023-839",
+      "repo_url": "https://github.com/ittiam-systems/libxaac.git",
+      "fixed_commit": "56716426e2087e604ee6267129857b409e53ab09",
+      "introduced_commit": "5ee1f8c8485f99c24968466a1ec15b081c86fa23",
+      "last_affected_commit": ""
+    },
+    "php.osv-2022-87": {
+      "timestamp": "2025-10-24T21:47:13.024659",
+      "success": true,
+      "entry_id": "OSV-2022-87",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "f1ae13509f23a639bd47b4035e6bf74c68cef752",
+      "introduced_commit": "902d64390e49f8bf970588cf53cd8e00630c68bb",
+      "last_affected_commit": ""
+    },
+    "php.osv-2020-1683": {
+      "timestamp": "2025-10-24T21:47:13.071370",
+      "success": true,
+      "entry_id": "OSV-2020-1683",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "c4016ecd446ef26bb3dc77735b6e441e151ea985",
+      "introduced_commit": "1902f730ee2bda60552f34c0643e2d7b47e4fb64",
+      "last_affected_commit": ""
+    },
+    "flatbuffers.osv-2021-349": {
+      "timestamp": "2025-10-24T21:47:13.119309",
+      "success": true,
+      "entry_id": "OSV-2021-349",
+      "repo_url": "https://github.com/google/flatbuffers",
+      "fixed_commit": "fee095410b0969765b5c2545c10e585f69e961b0",
+      "introduced_commit": "6f3e45eca1fde7a68cb72fd4499a3647f719c9db",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2021-1518": {
+      "timestamp": "2025-10-24T21:47:13.163705",
+      "success": true,
+      "entry_id": "OSV-2021-1518",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "0a7563a53ffedd735cb41c03f697269ef48f0ec2",
+      "introduced_commit": "8c583db9b5c63dc790f6553044b8915e1f5906bb",
+      "last_affected_commit": ""
+    },
+    "icu.osv-2021-1236": {
+      "timestamp": "2025-10-24T21:47:13.209476",
+      "success": true,
+      "entry_id": "OSV-2021-1236",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "4833cc89b2fae2e8863b46bf1dc785964847e882",
+      "introduced_commit": "7851f708a3dd43fc1e0e9dd784e7dfe9a70915b2",
+      "last_affected_commit": ""
+    },
+    "bloaty.osv-2018-134": {
+      "timestamp": "2025-10-24T21:47:13.257528",
+      "success": true,
+      "entry_id": "OSV-2018-134",
+      "repo_url": "https://github.com/google/bloaty.git",
+      "fixed_commit": "18384d6c6cbb666d08d08c0dabc4a0d1b7623f6f",
+      "introduced_commit": "0120168db4ba908b11545f19b08aea8afbbe9bc1",
+      "last_affected_commit": ""
+    },
+    "simdutf.osv-2024-1043": {
+      "timestamp": "2025-10-24T21:47:13.303298",
+      "success": true,
+      "entry_id": "OSV-2024-1043",
+      "repo_url": "https://github.com/simdutf/simdutf",
+      "fixed_commit": "522758e534b731acf43daa91dbaaea91b875acf3",
+      "introduced_commit": "e8ce8f25aa5683d37dc44510c99fc776ac9b27cb",
+      "last_affected_commit": ""
+    },
+    "php.osv-2020-1787": {
+      "timestamp": "2025-10-24T21:47:13.349354",
+      "success": true,
+      "entry_id": "OSV-2020-1787",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "392f0abf687c7519ba02d7d41b9622f0b3d1a8e2",
+      "introduced_commit": "1902f730ee2bda60552f34c0643e2d7b47e4fb64",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-711": {
+      "timestamp": "2025-10-24T21:47:13.350663",
+      "success": false,
+      "entry_id": "OSV-2022-711",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "libraw.osv-2020-1417": {
+      "timestamp": "2025-10-24T21:47:13.393908",
+      "success": true,
+      "entry_id": "OSV-2020-1417",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "363e91ea656f4ce46584b4b0af6285030f236b7e",
+      "introduced_commit": "5eeffd556eec1e2baea7826a4be20664f9d70662",
+      "last_affected_commit": ""
+    },
+    "sleuthkit.osv-2021-1775": {
+      "timestamp": "2025-10-24T21:47:13.443739",
+      "success": true,
+      "entry_id": "OSV-2021-1775",
+      "repo_url": "https://github.com/sleuthkit/sleuthkit",
+      "fixed_commit": "890b7ede03ed065237566930c0e95737b6df0bbd",
+      "introduced_commit": "6bac602fc47bd668fb0b8c14ce64c073ecc2de63",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2018-162": {
+      "timestamp": "2025-10-24T21:47:13.489980",
+      "success": true,
+      "entry_id": "OSV-2018-162",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "40f2b9355cf827c7b82ea5e55b112ce0032a9abf",
+      "introduced_commit": "84967537966a76297c89460d95e7336f1bfc332d",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-642": {
+      "timestamp": "2025-10-24T21:47:13.491268",
+      "success": false,
+      "entry_id": "OSV-2022-642",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "harfbuzz.osv-2018-174": {
+      "timestamp": "2025-10-24T21:47:13.538827",
+      "success": true,
+      "entry_id": "OSV-2018-174",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "8d98c51d133b058a845ed7a84bfe8a43083bbb03",
+      "introduced_commit": "095f5add0b1ca39dd09842594b80fae92f0796e4",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2021-427": {
+      "timestamp": "2025-10-24T21:47:13.584970",
+      "success": true,
+      "entry_id": "OSV-2021-427",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "363e91ea656f4ce46584b4b0af6285030f236b7e",
+      "introduced_commit": "4c954948ba2de262b9cb23a1843fb8651aa3dcc1",
+      "last_affected_commit": ""
+    },
+    "icu.osv-2020-866": {
+      "timestamp": "2025-10-24T21:47:13.634399",
+      "success": true,
+      "entry_id": "OSV-2020-866",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "4833cc89b2fae2e8863b46bf1dc785964847e882",
+      "introduced_commit": "6e5755a2a833bc64852eae12967d0a54d7adf629",
+      "last_affected_commit": ""
+    },
+    "openjpeg.osv-2017-22": {
+      "timestamp": "2025-10-24T21:47:13.684445",
+      "success": true,
+      "entry_id": "OSV-2017-22",
+      "repo_url": "https://github.com/uclouvain/openjpeg",
+      "fixed_commit": "28094e1ebfa420f9a0bdc7a11b8d4ee5f154db35",
+      "introduced_commit": "cc893a4ebfaf8c42cf1221ac82c83df91e77340b",
+      "last_affected_commit": ""
+    },
+    "libavc.osv-2023-117": {
+      "timestamp": "2025-10-24T21:47:13.743959",
+      "success": true,
+      "entry_id": "OSV-2023-117",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "fixed_commit": "c0ca3b2979a6f0999c57549986f99334666e8ef7",
+      "introduced_commit": "5fabd43f6af6c5f432c543b8a84e690dfa31a3b2",
+      "last_affected_commit": ""
+    },
+    "c-ares.osv-2020-630": {
+      "timestamp": "2025-10-24T21:47:13.795733",
+      "success": true,
+      "entry_id": "OSV-2020-630",
+      "repo_url": "https://github.com/c-ares/c-ares.git",
+      "fixed_commit": "b949cc3ddfbeb1b3fba571fb53b186b645e66e9c",
+      "introduced_commit": "7d3591ee8a1a63e7748e68e6d880bd1763a32885",
+      "last_affected_commit": ""
+    },
+    "libavc.osv-2023-1205": {
+      "timestamp": "2025-10-24T21:47:13.844669",
+      "success": true,
+      "entry_id": "OSV-2023-1205",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "fixed_commit": "28727baf58aa7c8983769aff1ceecb3121a26ee6",
+      "introduced_commit": "b2a61a152a5e83b3419212e8d15a10d4488e51d9",
+      "last_affected_commit": ""
+    },
+    "libbpf.osv-2021-1562": {
+      "timestamp": "2025-10-24T21:47:13.896833",
+      "success": true,
+      "entry_id": "OSV-2021-1562",
+      "repo_url": "https://github.com/libbpf/libbpf",
+      "fixed_commit": "741277511035893c72a34df05da3b943afa747a4",
+      "introduced_commit": "421213a052aebb0c357b6d0872d6c57f2113800d",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2018-119": {
+      "timestamp": "2025-10-24T21:47:13.946204",
+      "success": true,
+      "entry_id": "OSV-2018-119",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "a549aa14a0b60436a16f7f8924a5b5f82b4d5b7e",
+      "introduced_commit": "752bd8a192af209f44dacaf1d3510d0bfc6354b8",
+      "last_affected_commit": ""
+    },
+    "php.osv-2021-1759": {
+      "timestamp": "2025-10-24T21:47:13.994251",
+      "success": true,
+      "entry_id": "OSV-2021-1759",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "eee3b1d917591e5106aef9fd4fe93393e95fc13d",
+      "introduced_commit": "713dcb28181895d241e6dbe63f63ee654ba757b4",
+      "last_affected_commit": ""
+    },
+    "lz4.osv-2022-571": {
+      "timestamp": "2025-10-24T21:47:14.044428",
+      "success": true,
+      "entry_id": "OSV-2022-571",
+      "repo_url": "https://github.com/lz4/lz4.git",
+      "fixed_commit": "910ec80d2856cfa825e2230ff2de8347a4fa4522",
+      "introduced_commit": "0ac3c74de1b6de584c361f3e9485dde35f10c756",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2020-1362": {
+      "timestamp": "2025-10-24T21:47:14.092877",
+      "success": true,
+      "entry_id": "OSV-2020-1362",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "363e91ea656f4ce46584b4b0af6285030f236b7e",
+      "introduced_commit": "5eeffd556eec1e2baea7826a4be20664f9d70662",
+      "last_affected_commit": ""
+    },
+    "php.osv-2021-651": {
+      "timestamp": "2025-10-24T21:47:14.139871",
+      "success": true,
+      "entry_id": "OSV-2021-651",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "08dafda1232ffb70d878cb9b334982163aa32357",
+      "introduced_commit": "0fdf668dce21a2bdab5f0d76b3b8dc3879e661fd",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2023-1272": {
+      "timestamp": "2025-10-24T21:47:14.191028",
+      "success": true,
+      "entry_id": "OSV-2023-1272",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "5b325c0ae9cdd7ca03c002d7cae92a6d17f5111b",
+      "introduced_commit": "bf84135edda601fdead430b231a9ce50d38837d2",
+      "last_affected_commit": ""
+    },
+    "php.osv-2021-1780": {
+      "timestamp": "2025-10-24T21:47:14.240906",
+      "success": true,
+      "entry_id": "OSV-2021-1780",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "9362d6f5f08bf5f86fc30cf12433e1634f746c4d",
+      "introduced_commit": "75b2973974414fb52a19c0466c8f2afc2081eb49",
+      "last_affected_commit": ""
+    },
+    "espeak-ng.osv-2022-530": {
+      "timestamp": "2025-10-24T21:47:14.289053",
+      "success": true,
+      "entry_id": "OSV-2022-530",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "fixed_commit": "482ee1da05189252c3dee49514506e1d2271a2c0",
+      "introduced_commit": "0a713d52bbf3e061823d1a7f35e5303e7320f27a",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2023-377": {
+      "timestamp": "2025-10-24T21:47:14.337014",
+      "success": true,
+      "entry_id": "OSV-2023-377",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "cda646a598207642721b753ef5abcebb2525f61b",
+      "introduced_commit": "1be39729140a6d726de164746e516c1fe5afcb19",
+      "last_affected_commit": ""
+    },
+    "libexif.osv-2021-1128": {
+      "timestamp": "2025-10-24T21:47:14.384024",
+      "success": true,
+      "entry_id": "OSV-2021-1128",
+      "repo_url": "https://github.com/libexif/libexif",
+      "fixed_commit": "22799320cc1187868d9a572661d12f0c3f9939b5",
+      "introduced_commit": "2f1eff50327597ddf169d9fff9df9cc237dda7f4",
+      "last_affected_commit": ""
+    },
+    "lwan.osv-2022-320": {
+      "timestamp": "2025-10-24T21:47:14.431880",
+      "success": true,
+      "entry_id": "OSV-2022-320",
+      "repo_url": "https://github.com/lpereira/lwan.git",
+      "fixed_commit": "44283f701359c7b0bcf5e0b5466591c7442d081a",
+      "introduced_commit": "d7fa49968a50107519421d388fd3de60ecb3f17a",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-635": {
+      "timestamp": "2025-10-24T21:47:14.433244",
+      "success": false,
+      "entry_id": "OSV-2022-635",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "serenity.osv-2021-446": {
+      "timestamp": "2025-10-24T21:47:14.484628",
+      "success": true,
+      "entry_id": "OSV-2021-446",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "fixed_commit": "42133a196a0bea83705b5947921d5c7e5b9f201d",
+      "introduced_commit": "31ac93d051be5be78419ed16da9fcae9783eb4e6",
+      "last_affected_commit": ""
+    },
+    "php.osv-2021-1217": {
+      "timestamp": "2025-10-24T21:47:14.558216",
+      "success": true,
+      "entry_id": "OSV-2021-1217",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "6381a16f3f1d0ce5d260f90661a7026b8f05d074",
+      "introduced_commit": "53e9c36cd94fae193a4fcbb879b93db31a4906c3",
+      "last_affected_commit": ""
+    },
+    "cyclonedds.osv-2023-273": {
+      "timestamp": "2025-10-24T21:47:14.627451",
+      "success": true,
+      "entry_id": "OSV-2023-273",
+      "repo_url": "https://github.com/eclipse-cyclonedds/cyclonedds",
+      "fixed_commit": "708b9211ca8aeb3312b358df81d259c3d3c9fc70",
+      "introduced_commit": "1ae6bb9985c05f8742cb31c0bd46f3c7bd8777bd",
+      "last_affected_commit": ""
+    },
+    "libexif.osv-2021-1169": {
+      "timestamp": "2025-10-24T21:47:14.675992",
+      "success": true,
+      "entry_id": "OSV-2021-1169",
+      "repo_url": "https://github.com/libexif/libexif",
+      "fixed_commit": "b1e292af7d6ff811755026ec551e37e73ae07469",
+      "introduced_commit": "22799320cc1187868d9a572661d12f0c3f9939b5",
+      "last_affected_commit": ""
+    },
+    "pcre2.osv-2023-674": {
+      "timestamp": "2025-10-24T21:47:14.727530",
+      "success": true,
+      "entry_id": "OSV-2023-674",
+      "repo_url": "https://github.com/PCRE2Project/pcre2",
+      "fixed_commit": "fb1c7d27db09a4d0a2b6e1486c4f1a4d332e8b8c",
+      "introduced_commit": "1e78b77382564b4cc9991e486652d4b105d8ee35",
+      "last_affected_commit": ""
+    },
+    "cyclonedds.osv-2023-556": {
+      "timestamp": "2025-10-24T21:47:14.783296",
+      "success": true,
+      "entry_id": "OSV-2023-556",
+      "repo_url": "https://github.com/eclipse-cyclonedds/cyclonedds",
+      "fixed_commit": "748f19f0c5da7ecec73d350772c784e46c7d9d64",
+      "introduced_commit": "f663cb17460c1202b8b069173c8fb786346623d9",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2018-149": {
+      "timestamp": "2025-10-24T21:47:14.833294",
+      "success": true,
+      "entry_id": "OSV-2018-149",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "68b705076808d4b0a4ac3bfa945b8f9ae23db1df",
+      "introduced_commit": "de6e414c565de5f27b9da8c7b8b11f88659a4c42",
+      "last_affected_commit": ""
+    },
+    "espeak-ng.osv-2021-764": {
+      "timestamp": "2025-10-24T21:47:14.880887",
+      "success": true,
+      "entry_id": "OSV-2021-764",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "fixed_commit": "7b9c99cec7b0c517049d39cbbee610c3a8407fa4",
+      "introduced_commit": "0a713d52bbf3e061823d1a7f35e5303e7320f27a",
+      "last_affected_commit": ""
+    },
+    "exiv2.osv-2022-794": {
+      "timestamp": "2025-10-24T21:47:14.931630",
+      "success": true,
+      "entry_id": "OSV-2022-794",
+      "repo_url": "https://github.com/Exiv2/exiv2",
+      "fixed_commit": "337fe1854ff17f169032e993789a24bbb53579c4",
+      "introduced_commit": "0a948c6a7d7538e27feef17816406cc5d7769a78",
+      "last_affected_commit": ""
+    },
+    "zstd.osv-2022-110": {
+      "timestamp": "2025-10-24T21:47:14.979416",
+      "success": true,
+      "entry_id": "OSV-2022-110",
+      "repo_url": "https://github.com/facebook/zstd",
+      "fixed_commit": "cad9f8d5f9c451b1cc8ce00a16c125e3d2ffc418",
+      "introduced_commit": "fc2ea97442460158a92d1e7b7c26e7486e45a605",
+      "last_affected_commit": ""
+    },
+    "php.osv-2023-1243": {
+      "timestamp": "2025-10-24T21:47:15.028867",
+      "success": true,
+      "entry_id": "OSV-2023-1243",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "1e55c9760178f9d5e1de8b251537b3e8ccf44feb",
+      "introduced_commit": "423a1e586e186d1df7838216a88b63b67f37afea",
+      "last_affected_commit": ""
+    },
+    "wasm3.osv-2021-660": {
+      "timestamp": "2025-10-24T21:47:15.078386",
+      "success": true,
+      "entry_id": "OSV-2021-660",
+      "repo_url": "https://github.com/wasm3/wasm3",
+      "fixed_commit": "12a5277ec0977af493530b704a5a16e28f734788",
+      "introduced_commit": "4c19660109617c34a4b755ab2ab7f3002ea498b2",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2023-184": {
+      "timestamp": "2025-10-24T21:47:15.125109",
+      "success": true,
+      "entry_id": "OSV-2023-184",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "e942a7db6b9abdcbaedc8a21400ffc5edacbd9c3",
+      "introduced_commit": "4c954948ba2de262b9cb23a1843fb8651aa3dcc1",
+      "last_affected_commit": ""
+    },
+    "selinux.osv-2021-1733": {
+      "timestamp": "2025-10-24T21:47:15.170972",
+      "success": true,
+      "entry_id": "OSV-2021-1733",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "fixed_commit": "b78560fd372e01c11ca4f183f929d99b1f89f314",
+      "introduced_commit": "82438341f799a4700544bf5142f01a7876ad2631",
+      "last_affected_commit": ""
+    },
+    "icu.osv-2024-10": {
+      "timestamp": "2025-10-24T21:47:15.219043",
+      "success": true,
+      "entry_id": "OSV-2024-10",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "23d1fc5989c87d5a0572eed54f7c1000f1e3e71b",
+      "introduced_commit": "cfba9a8caf6cb6ab39eb4ca5702c78f97989bcde",
+      "last_affected_commit": ""
+    },
+    "openjpeg.osv-2017-5": {
+      "timestamp": "2025-10-24T21:47:15.264540",
+      "success": true,
+      "entry_id": "OSV-2017-5",
+      "repo_url": "https://github.com/uclouvain/openjpeg",
+      "fixed_commit": "a55c024fc6b917a409b85aeafd7326421c4aea34",
+      "introduced_commit": "5d403250561398f7ba3041d9eb8c893bd680dd72",
+      "last_affected_commit": ""
+    },
+    "mruby.osv-2023-366": {
+      "timestamp": "2025-10-24T21:47:15.312045",
+      "success": true,
+      "entry_id": "OSV-2023-366",
+      "repo_url": "https://github.com/mruby/mruby",
+      "fixed_commit": "b47c8b738ae3e400ec02269fae9857222218e9d5",
+      "introduced_commit": "672495555bb741aefbde2f31a523f7ed8666d2c6",
+      "last_affected_commit": ""
+    },
+    "exiv2.osv-2022-223": {
+      "timestamp": "2025-10-24T21:47:15.360610",
+      "success": true,
+      "entry_id": "OSV-2022-223",
+      "repo_url": "https://github.com/Exiv2/exiv2",
+      "fixed_commit": "e715243aa51fa38a89d35ea377d267600217e192",
+      "introduced_commit": "b9f9d041eabc0cd9620ca4373190f167085a9b44",
+      "last_affected_commit": ""
+    },
+    "libdwarf-code.osv-2022-389": {
+      "timestamp": "2025-10-24T16:06:06.476069",
+      "success": false,
+      "entry_id": "OSV-2022-389",
+      "repo_url": "https://github.com/davea42/libdwarf-code",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "pcre2.osv-2023-673": {
+      "timestamp": "2025-10-24T21:47:15.456058",
+      "success": true,
+      "entry_id": "OSV-2023-673",
+      "repo_url": "https://github.com/PCRE2Project/pcre2",
+      "fixed_commit": "5f77d022733a5b7e2ff1e3d80b547c0d89811efe",
+      "introduced_commit": "1e78b77382564b4cc9991e486652d4b105d8ee35",
+      "last_affected_commit": ""
+    },
+    "espeak-ng.osv-2021-787": {
+      "timestamp": "2025-10-24T21:47:15.502321",
+      "success": true,
+      "entry_id": "OSV-2021-787",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "fixed_commit": "9decedb8c229e1a4219baceaab7a3d656e889e31",
+      "introduced_commit": "0a713d52bbf3e061823d1a7f35e5303e7320f27a",
+      "last_affected_commit": ""
+    },
+    "icu.osv-2021-1206": {
+      "timestamp": "2025-10-24T21:47:15.550867",
+      "success": true,
+      "entry_id": "OSV-2021-1206",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "adb109f440f5dc9c7bb9f2b1df3a9d63109aa585",
+      "introduced_commit": "01e1adc9e412c9c3177dc3e30d056c25d8687853",
+      "last_affected_commit": ""
+    },
+    "php.osv-2022-235": {
+      "timestamp": "2025-10-24T21:47:15.600914",
+      "success": true,
+      "entry_id": "OSV-2022-235",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "c4ecd82f9399850a36bf2466d0a54a045b6dfa15",
+      "introduced_commit": "c77bbcd4642a982fd9fdaf32dbe444d925c7883f",
+      "last_affected_commit": ""
+    },
+    "sleuthkit.osv-2021-1380": {
+      "timestamp": "2025-10-24T21:47:15.647127",
+      "success": true,
+      "entry_id": "OSV-2021-1380",
+      "repo_url": "https://github.com/sleuthkit/sleuthkit",
+      "fixed_commit": "0c25e58d667a9c605dfc250671cb9dc7796e5a22",
+      "introduced_commit": "84f5109267cb2a54a950be0dd3480f9ff2762e36",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2018-61": {
+      "timestamp": "2025-10-24T21:47:15.692393",
+      "success": true,
+      "entry_id": "OSV-2018-61",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "7a6686a589ed6bf17a5af0b8012501e4d4ee2ded",
+      "introduced_commit": "11d2f49af8f53340134c844173f4d8655b00dea3",
+      "last_affected_commit": ""
+    },
+    "c-ares.osv-2020-569": {
+      "timestamp": "2025-10-24T21:47:15.738491",
+      "success": true,
+      "entry_id": "OSV-2020-569",
+      "repo_url": "https://github.com/c-ares/c-ares.git",
+      "fixed_commit": "5dd3629bc93449840c36dd635ea6cce606b8c366",
+      "introduced_commit": "7d3591ee8a1a63e7748e68e6d880bd1763a32885",
+      "last_affected_commit": ""
+    },
+    "php.osv-2020-1735": {
+      "timestamp": "2025-10-24T21:47:15.786450",
+      "success": true,
+      "entry_id": "OSV-2020-1735",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "3c53732332c4b9d3904eec0d1c42f0d4d4bf65c6",
+      "introduced_commit": "927771333ba28570d1a5dc4bdc5b1a2a13ff3774",
+      "last_affected_commit": ""
+    },
+    "liblouis.osv-2023-599": {
+      "timestamp": "2025-10-24T21:47:15.833474",
+      "success": true,
+      "entry_id": "OSV-2023-599",
+      "repo_url": "https://github.com/liblouis/liblouis",
+      "fixed_commit": "878ef436e6cf401e5134899d70d5a8c0815cd549",
+      "introduced_commit": "bd2f5364d74bdc86af7a13fc690138c453c321de",
+      "last_affected_commit": ""
+    },
+    "icu.osv-2023-873": {
+      "timestamp": "2025-10-24T21:47:15.884519",
+      "success": true,
+      "entry_id": "OSV-2023-873",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "6a42197331c23ed7e09d040f6deaa7c352c02cca",
+      "introduced_commit": "84ae742ea01565054a4cccd7fbaed51753ecd80d",
+      "last_affected_commit": ""
+    },
+    "serenity.osv-2021-315": {
+      "timestamp": "2025-10-24T21:47:15.929673",
+      "success": true,
+      "entry_id": "OSV-2021-315",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "fixed_commit": "ce5fe2a6e807b819866b4f429ca6f7a2d74445b7",
+      "introduced_commit": "57e10eadac01273cc4c0bcb681aa9381cacef0b3",
+      "last_affected_commit": ""
+    },
+    "php.osv-2023-598": {
+      "timestamp": "2025-10-24T21:47:15.978709",
+      "success": true,
+      "entry_id": "OSV-2023-598",
+      "repo_url": "https://github.com/php/php-src.git",
+      "fixed_commit": "2fbec0974fd6ec89555f37356a8376f680b9bf49",
+      "introduced_commit": "d8696f92166eea5e94cc82b64bce72f36fc81d46",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-648": {
+      "timestamp": "2025-10-24T21:47:15.980030",
+      "success": false,
+      "entry_id": "OSV-2022-648",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "harfbuzz.osv-2021-1381": {
+      "timestamp": "2025-10-24T21:47:16.035416",
+      "success": true,
+      "entry_id": "OSV-2021-1381",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "794b00db4b63e8314aee96c23a20ecb878452eef",
+      "introduced_commit": "ca7b9daef06fc515ec84cfb95e7204e9eef3f00e",
+      "last_affected_commit": ""
+    },
+    "libraw.osv-2020-1519": {
+      "timestamp": "2025-10-24T21:47:16.083874",
+      "success": true,
+      "entry_id": "OSV-2020-1519",
+      "repo_url": "https://github.com/libraw/libraw",
+      "fixed_commit": "363e91ea656f4ce46584b4b0af6285030f236b7e",
+      "introduced_commit": "5eeffd556eec1e2baea7826a4be20664f9d70662",
+      "last_affected_commit": ""
+    },
+    "harfbuzz.osv-2018-129": {
+      "timestamp": "2025-10-24T21:47:16.129043",
+      "success": true,
+      "entry_id": "OSV-2018-129",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "fixed_commit": "79e7e3445efef2dc57f8a10c7e355e802af08868",
+      "introduced_commit": "11d2f49af8f53340134c844173f4d8655b00dea3",
+      "last_affected_commit": ""
+    },
+    "serenity.osv-2021-397": {
+      "timestamp": "2025-10-24T21:47:16.177299",
+      "success": true,
+      "entry_id": "OSV-2021-397",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "fixed_commit": "3fe7ac0924ada70faaf27636b6e0f40bcde24f77",
+      "introduced_commit": "5b891b0c36b9cf6efe1c8873e34f2fc114a686d3",
+      "last_affected_commit": ""
+    },
+    "systemd.osv-2020-682": {
+      "timestamp": "2025-10-24T21:47:16.225601",
+      "success": true,
+      "entry_id": "OSV-2020-682",
+      "repo_url": "https://github.com/systemd/systemd",
+      "fixed_commit": "7bb55ed099f611ec7077db69684a6cb93d42dc70",
+      "introduced_commit": "16b4623620acdccb232392901074a61e360aa2a4",
+      "last_affected_commit": ""
+    },
+    "icu.osv-2023-849": {
+      "timestamp": "2025-10-24T21:47:16.272628",
+      "success": true,
+      "entry_id": "OSV-2023-849",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "fixed_commit": "386e9a10db28af620658ca0c635e1d98915f6306",
+      "introduced_commit": "aa70ba6746f5a692c14a8a40ec4588669e8efdc7",
+      "last_affected_commit": ""
+    },
+    "espeak-ng.osv-2021-1354": {
+      "timestamp": "2025-10-24T21:47:16.319844",
+      "success": true,
+      "entry_id": "OSV-2021-1354",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "fixed_commit": "be962b067b889852da6194342b26e1759e1d7952",
+      "introduced_commit": "ac643ea5add300e036afbcc0d48e28d94edad5a9",
+      "last_affected_commit": ""
+    },
+    "libexif.osv-2021-1138": {
+      "timestamp": "2025-10-24T21:47:16.364568",
+      "success": true,
+      "entry_id": "OSV-2021-1138",
+      "repo_url": "https://github.com/libexif/libexif",
+      "fixed_commit": "eb452f533b2d906130a557ced3d6e38d7b064ff9",
+      "introduced_commit": "2f1eff50327597ddf169d9fff9df9cc237dda7f4",
+      "last_affected_commit": ""
+    },
+    "little-cms.osv-2022-625": {
+      "timestamp": "2025-10-24T21:47:16.366080",
+      "success": false,
+      "entry_id": "OSV-2022-625",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Project mm2/Little-CMS is not an OSS-Fuzz project"
+    },
+    "espeak-ng.osv-2021-769": {
+      "timestamp": "2025-10-24T21:47:16.414129",
+      "success": true,
+      "entry_id": "OSV-2021-769",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "fixed_commit": "7f1222c6ad6a3652be35afbbc980a382076ff0a9",
+      "introduced_commit": "0a713d52bbf3e061823d1a7f35e5303e7320f27a",
+      "last_affected_commit": ""
+    },
+    "selinux.osv-2021-417": {
+      "timestamp": "2025-10-24T16:54:06.700352",
+      "success": false,
+      "entry_id": "OSV-2021-417",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2021-1246": {
+      "timestamp": "2025-10-24T16:56:06.706864",
+      "success": false,
+      "entry_id": "OSV-2021-1246",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-222": {
+      "timestamp": "2025-10-24T16:58:06.715562",
+      "success": false,
+      "entry_id": "OSV-2023-222",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "jsoncons.osv-2021-821": {
+      "timestamp": "2025-10-24T17:00:06.726043",
+      "success": false,
+      "entry_id": "OSV-2021-821",
+      "repo_url": "https://github.com/danielaparker/jsoncons",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "espeak-ng.osv-2021-1636": {
+      "timestamp": "2025-10-24T17:02:06.731110",
+      "success": false,
+      "entry_id": "OSV-2021-1636",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2021-1159": {
+      "timestamp": "2025-10-24T17:04:06.746931",
+      "success": false,
+      "entry_id": "OSV-2021-1159",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-172": {
+      "timestamp": "2025-10-24T17:06:06.763923",
+      "success": false,
+      "entry_id": "OSV-2018-172",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2021-421": {
+      "timestamp": "2025-10-24T17:08:06.776174",
+      "success": false,
+      "entry_id": "OSV-2021-421",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2022-613": {
+      "timestamp": "2025-10-24T17:10:06.783390",
+      "success": false,
+      "entry_id": "OSV-2022-613",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2020-1779": {
+      "timestamp": "2025-10-24T17:12:06.769540",
+      "success": false,
+      "entry_id": "OSV-2020-1779",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2022-238": {
+      "timestamp": "2025-10-24T17:14:06.778500",
+      "success": false,
+      "entry_id": "OSV-2022-238",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2022-111": {
+      "timestamp": "2025-10-24T17:16:06.785895",
+      "success": false,
+      "entry_id": "OSV-2022-111",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "exiv2.osv-2022-280": {
+      "timestamp": "2025-10-24T17:18:06.793980",
+      "success": false,
+      "entry_id": "OSV-2022-280",
+      "repo_url": "https://github.com/Exiv2/exiv2",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "sudo.osv-2021-1122": {
+      "timestamp": "2025-10-24T17:20:06.806256",
+      "success": false,
+      "entry_id": "OSV-2021-1122",
+      "repo_url": "https://github.com/sudo-project/sudo",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "mruby.osv-2023-280": {
+      "timestamp": "2025-10-24T17:22:06.816590",
+      "success": false,
+      "entry_id": "OSV-2023-280",
+      "repo_url": "https://github.com/mruby/mruby",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2021-909": {
+      "timestamp": "2025-10-24T17:24:06.831961",
+      "success": false,
+      "entry_id": "OSV-2021-909",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-453": {
+      "timestamp": "2025-10-24T17:26:06.847937",
+      "success": false,
+      "entry_id": "OSV-2023-453",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2021-270": {
+      "timestamp": "2025-10-24T17:28:06.859914",
+      "success": false,
+      "entry_id": "OSV-2021-270",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "espeak-ng.osv-2021-765": {
+      "timestamp": "2025-10-24T17:30:06.872695",
+      "success": false,
+      "entry_id": "OSV-2021-765",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "mruby.osv-2023-384": {
+      "timestamp": "2025-10-24T17:32:06.883793",
+      "success": false,
+      "entry_id": "OSV-2023-384",
+      "repo_url": "https://github.com/mruby/mruby",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-1311": {
+      "timestamp": "2025-10-24T17:34:06.895007",
+      "success": false,
+      "entry_id": "OSV-2023-1311",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2022-804": {
+      "timestamp": "2025-10-24T17:36:06.907039",
+      "success": false,
+      "entry_id": "OSV-2022-804",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2022-647": {
+      "timestamp": "2025-10-24T17:38:06.917758",
+      "success": false,
+      "entry_id": "OSV-2022-647",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2021-926": {
+      "timestamp": "2025-10-24T17:40:06.925279",
+      "success": false,
+      "entry_id": "OSV-2021-926",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2022-169": {
+      "timestamp": "2025-10-24T17:42:06.935674",
+      "success": false,
+      "entry_id": "OSV-2022-169",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "c-ares.osv-2020-530": {
+      "timestamp": "2025-10-24T17:44:06.950209",
+      "success": false,
+      "entry_id": "OSV-2020-530",
+      "repo_url": "https://github.com/c-ares/c-ares.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2021-727": {
+      "timestamp": "2025-10-24T17:46:06.961840",
+      "success": false,
+      "entry_id": "OSV-2021-727",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libtiff.osv-2020-1306": {
+      "timestamp": "2025-10-24T17:48:06.974464",
+      "success": false,
+      "entry_id": "OSV-2020-1306",
+      "repo_url": "https://gitlab.com/libtiff/libtiff",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2021-859": {
+      "timestamp": "2025-10-24T17:50:06.974674",
+      "success": false,
+      "entry_id": "OSV-2021-859",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2021-731": {
+      "timestamp": "2025-10-24T17:52:06.986300",
+      "success": false,
+      "entry_id": "OSV-2021-731",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libexif.osv-2022-368": {
+      "timestamp": "2025-10-24T17:54:06.996663",
+      "success": false,
+      "entry_id": "OSV-2022-368",
+      "repo_url": "https://github.com/libexif/libexif",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2020-418": {
+      "timestamp": "2025-10-24T17:56:07.007360",
+      "success": false,
+      "entry_id": "OSV-2020-418",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-554": {
+      "timestamp": "2025-10-24T17:58:07.015689",
+      "success": false,
+      "entry_id": "OSV-2023-554",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2023-870": {
+      "timestamp": "2025-10-24T18:00:07.023545",
+      "success": false,
+      "entry_id": "OSV-2023-870",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2020-654": {
+      "timestamp": "2025-10-24T18:02:07.029211",
+      "success": false,
+      "entry_id": "OSV-2020-654",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2020-584": {
+      "timestamp": "2025-10-24T18:04:07.038001",
+      "success": false,
+      "entry_id": "OSV-2020-584",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "wasm3.osv-2021-642": {
+      "timestamp": "2025-10-24T18:06:07.048817",
+      "success": false,
+      "entry_id": "OSV-2021-642",
+      "repo_url": "https://github.com/wasm3/wasm3",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2024-267": {
+      "timestamp": "2025-10-24T18:08:07.059581",
+      "success": false,
+      "entry_id": "OSV-2024-267",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2024-637": {
+      "timestamp": "2025-10-24T18:10:07.069227",
+      "success": false,
+      "entry_id": "OSV-2024-637",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "pistache.osv-2024-322": {
+      "timestamp": "2025-10-24T18:12:07.077833",
+      "success": false,
+      "entry_id": "OSV-2024-322",
+      "repo_url": "https://github.com/pistacheio/pistache",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "flatbuffers.osv-2021-1678": {
+      "timestamp": "2025-10-24T18:14:07.086188",
+      "success": false,
+      "entry_id": "OSV-2021-1678",
+      "repo_url": "https://github.com/google/flatbuffers",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-372": {
+      "timestamp": "2025-10-24T18:16:07.098106",
+      "success": false,
+      "entry_id": "OSV-2023-372",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "serenity.osv-2021-394": {
+      "timestamp": "2025-10-24T18:18:07.109623",
+      "success": false,
+      "entry_id": "OSV-2021-394",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2020-286": {
+      "timestamp": "2025-10-24T18:20:07.121511",
+      "success": false,
+      "entry_id": "OSV-2020-286",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libzmq.osv-2020-910": {
+      "timestamp": "2025-10-24T18:22:07.131989",
+      "success": false,
+      "entry_id": "OSV-2020-910",
+      "repo_url": "https://github.com/zeromq/libzmq.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2022-626": {
+      "timestamp": "2025-10-24T18:24:07.140838",
+      "success": false,
+      "entry_id": "OSV-2022-626",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-333": {
+      "timestamp": "2025-10-24T18:26:07.146050",
+      "success": false,
+      "entry_id": "OSV-2023-333",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "mruby.osv-2024-1175": {
+      "timestamp": "2025-10-24T18:28:07.156031",
+      "success": false,
+      "entry_id": "OSV-2024-1175",
+      "repo_url": "https://github.com/mruby/mruby",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-146": {
+      "timestamp": "2025-10-24T18:30:07.163978",
+      "success": false,
+      "entry_id": "OSV-2018-146",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2022-627": {
+      "timestamp": "2025-10-24T18:32:07.172581",
+      "success": false,
+      "entry_id": "OSV-2022-627",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "glslang.osv-2024-460": {
+      "timestamp": "2025-10-24T18:34:07.181987",
+      "success": false,
+      "entry_id": "OSV-2024-460",
+      "repo_url": "https://github.com/khronosgroup/glslang",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2023-1124": {
+      "timestamp": "2025-10-24T18:36:07.202767",
+      "success": false,
+      "entry_id": "OSV-2023-1124",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "systemd.osv-2020-287": {
+      "timestamp": "2025-10-24T18:38:07.213426",
+      "success": false,
+      "entry_id": "OSV-2020-287",
+      "repo_url": "https://github.com/systemd/systemd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2023-1098": {
+      "timestamp": "2025-10-24T18:40:07.225603",
+      "success": false,
+      "entry_id": "OSV-2023-1098",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "irssi.osv-2021-454": {
+      "timestamp": "2025-10-24T18:42:07.240638",
+      "success": false,
+      "entry_id": "OSV-2021-454",
+      "repo_url": "https://github.com/irssi/irssi",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "picotls.osv-2020-1022": {
+      "timestamp": "2025-10-24T18:44:07.251662",
+      "success": false,
+      "entry_id": "OSV-2020-1022",
+      "repo_url": "https://github.com/h2o/picotls",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2024-9": {
+      "timestamp": "2025-10-24T18:46:07.261762",
+      "success": false,
+      "entry_id": "OSV-2024-9",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "serenity.osv-2021-395": {
+      "timestamp": "2025-10-24T18:48:07.274556",
+      "success": false,
+      "entry_id": "OSV-2021-395",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "lz4.osv-2022-563": {
+      "timestamp": "2025-10-24T18:50:07.287025",
+      "success": false,
+      "entry_id": "OSV-2022-563",
+      "repo_url": "https://github.com/lz4/lz4.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2021-585": {
+      "timestamp": "2025-10-24T18:52:07.301295",
+      "success": false,
+      "entry_id": "OSV-2021-585",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "espeak-ng.osv-2021-1141": {
+      "timestamp": "2025-10-24T18:54:07.307580",
+      "success": false,
+      "entry_id": "OSV-2021-1141",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libexif.osv-2020-1274": {
+      "timestamp": "2025-10-24T18:56:07.316561",
+      "success": false,
+      "entry_id": "OSV-2020-1274",
+      "repo_url": "https://github.com/libexif/libexif",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "json-c.osv-2020-252": {
+      "timestamp": "2025-10-24T18:58:07.321798",
+      "success": false,
+      "entry_id": "OSV-2020-252",
+      "repo_url": "https://github.com/json-c/json-c.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-1313": {
+      "timestamp": "2025-10-24T19:00:07.326862",
+      "success": false,
+      "entry_id": "OSV-2023-1313",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-739": {
+      "timestamp": "2025-10-24T19:02:07.334195",
+      "success": false,
+      "entry_id": "OSV-2023-739",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-95": {
+      "timestamp": "2025-10-24T19:04:07.344700",
+      "success": false,
+      "entry_id": "OSV-2023-95",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-54": {
+      "timestamp": "2025-10-24T19:06:07.356774",
+      "success": false,
+      "entry_id": "OSV-2018-54",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "espeak-ng.osv-2021-767": {
+      "timestamp": "2025-10-24T19:08:07.374183",
+      "success": false,
+      "entry_id": "OSV-2021-767",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libxaac.osv-2024-180": {
+      "timestamp": "2025-10-24T19:10:07.385045",
+      "success": false,
+      "entry_id": "OSV-2024-180",
+      "repo_url": "https://github.com/ittiam-systems/libxaac.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "mruby.osv-2023-282": {
+      "timestamp": "2025-10-24T19:12:07.398796",
+      "success": false,
+      "entry_id": "OSV-2023-282",
+      "repo_url": "https://github.com/mruby/mruby",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2022-41": {
+      "timestamp": "2025-10-24T19:14:07.405510",
+      "success": false,
+      "entry_id": "OSV-2022-41",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "little-cms.osv-2022-955": {
+      "timestamp": "2025-10-24T19:16:07.420654",
+      "success": false,
+      "entry_id": "OSV-2022-955",
+      "repo_url": "https://github.com/mm2/Little-CMS.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-1305": {
+      "timestamp": "2025-10-24T19:18:07.431660",
+      "success": false,
+      "entry_id": "OSV-2023-1305",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2020-1700": {
+      "timestamp": "2025-10-24T19:20:07.446219",
+      "success": false,
+      "entry_id": "OSV-2020-1700",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "serenity.osv-2021-399": {
+      "timestamp": "2025-10-24T19:22:07.460331",
+      "success": false,
+      "entry_id": "OSV-2021-399",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-127": {
+      "timestamp": "2025-10-24T19:24:07.469215",
+      "success": false,
+      "entry_id": "OSV-2018-127",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2024-456": {
+      "timestamp": "2025-10-24T19:26:07.482526",
+      "success": false,
+      "entry_id": "OSV-2024-456",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2022-241": {
+      "timestamp": "2025-10-24T19:28:07.492266",
+      "success": false,
+      "entry_id": "OSV-2022-241",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "relic.osv-2022-1231": {
+      "timestamp": "2025-10-24T19:30:07.504281",
+      "success": false,
+      "entry_id": "OSV-2022-1231",
+      "repo_url": "https://github.com/relic-toolkit/relic.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2023-715": {
+      "timestamp": "2025-10-24T19:32:07.514446",
+      "success": false,
+      "entry_id": "OSV-2023-715",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "mruby.osv-2024-102": {
+      "timestamp": "2025-10-24T19:34:07.526532",
+      "success": false,
+      "entry_id": "OSV-2024-102",
+      "repo_url": "https://github.com/mruby/mruby",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "cyclonedds.osv-2022-892": {
+      "timestamp": "2025-10-24T19:36:07.535836",
+      "success": false,
+      "entry_id": "OSV-2022-892",
+      "repo_url": "https://github.com/eclipse-cyclonedds/cyclonedds",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-97": {
+      "timestamp": "2025-10-24T19:38:07.545488",
+      "success": false,
+      "entry_id": "OSV-2018-97",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-73": {
+      "timestamp": "2025-10-24T19:40:07.553314",
+      "success": false,
+      "entry_id": "OSV-2018-73",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2023-1271": {
+      "timestamp": "2025-10-24T19:42:07.559790",
+      "success": false,
+      "entry_id": "OSV-2023-1271",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "flatbuffers.osv-2021-347": {
+      "timestamp": "2025-10-24T19:44:07.569937",
+      "success": false,
+      "entry_id": "OSV-2021-347",
+      "repo_url": "https://github.com/google/flatbuffers",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libtiff.osv-2020-1232": {
+      "timestamp": "2025-10-24T19:46:07.583884",
+      "success": false,
+      "entry_id": "OSV-2020-1232",
+      "repo_url": "https://gitlab.com/libtiff/libtiff",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-1322": {
+      "timestamp": "2025-10-24T19:48:07.596595",
+      "success": false,
+      "entry_id": "OSV-2023-1322",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "pcre2.osv-2024-324": {
+      "timestamp": "2025-10-24T19:50:07.602813",
+      "success": false,
+      "entry_id": "OSV-2024-324",
+      "repo_url": "https://github.com/PCRE2Project/pcre2",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2021-1310": {
+      "timestamp": "2025-10-24T19:52:07.612977",
+      "success": false,
+      "entry_id": "OSV-2021-1310",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "icu.osv-2020-845": {
+      "timestamp": "2025-10-24T19:54:07.624725",
+      "success": false,
+      "entry_id": "OSV-2020-845",
+      "repo_url": "https://github.com/unicode-org/icu.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "c-ares.osv-2020-280": {
+      "timestamp": "2025-10-24T19:56:07.636525",
+      "success": false,
+      "entry_id": "OSV-2020-280",
+      "repo_url": "https://github.com/c-ares/c-ares.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-323": {
+      "timestamp": "2025-10-24T19:58:07.648664",
+      "success": false,
+      "entry_id": "OSV-2023-323",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-159": {
+      "timestamp": "2025-10-24T20:00:07.658874",
+      "success": false,
+      "entry_id": "OSV-2023-159",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-116": {
+      "timestamp": "2025-10-24T20:02:07.667564",
+      "success": false,
+      "entry_id": "OSV-2018-116",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "serenity.osv-2021-445": {
+      "timestamp": "2025-10-24T20:04:07.676019",
+      "success": false,
+      "entry_id": "OSV-2021-445",
+      "repo_url": "https://github.com/SerenityOS/serenity",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2020-691": {
+      "timestamp": "2025-10-24T20:06:07.685076",
+      "success": false,
+      "entry_id": "OSV-2020-691",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-342": {
+      "timestamp": "2025-10-24T20:08:07.711669",
+      "success": false,
+      "entry_id": "OSV-2023-342",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "htslib.osv-2020-998": {
+      "timestamp": "2025-10-24T20:10:07.719350",
+      "success": false,
+      "entry_id": "OSV-2020-998",
+      "repo_url": "https://github.com/samtools/htslib.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2021-536": {
+      "timestamp": "2025-10-24T20:12:07.731899",
+      "success": false,
+      "entry_id": "OSV-2021-536",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libexif.osv-2021-1170": {
+      "timestamp": "2025-10-24T20:14:07.745021",
+      "success": false,
+      "entry_id": "OSV-2021-1170",
+      "repo_url": "https://github.com/libexif/libexif",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2022-401": {
+      "timestamp": "2025-10-24T20:16:07.756426",
+      "success": false,
+      "entry_id": "OSV-2022-401",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-840": {
+      "timestamp": "2025-10-24T20:18:07.766405",
+      "success": false,
+      "entry_id": "OSV-2023-840",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "h3.osv-2024-1201": {
+      "timestamp": "2025-10-24T20:20:07.784902",
+      "success": false,
+      "entry_id": "OSV-2024-1201",
+      "repo_url": "https://github.com/uber/h3",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "espeak-ng.osv-2021-808": {
+      "timestamp": "2025-10-24T20:22:07.793661",
+      "success": false,
+      "entry_id": "OSV-2021-808",
+      "repo_url": "https://github.com/espeak-ng/espeak-ng",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-380": {
+      "timestamp": "2025-10-24T20:24:07.802357",
+      "success": false,
+      "entry_id": "OSV-2023-380",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libzmq.osv-2020-1655": {
+      "timestamp": "2025-10-24T20:26:07.812588",
+      "success": false,
+      "entry_id": "OSV-2020-1655",
+      "repo_url": "https://github.com/zeromq/libzmq.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "openjpeg.osv-2017-61": {
+      "timestamp": "2025-10-24T20:28:07.823256",
+      "success": false,
+      "entry_id": "OSV-2017-61",
+      "repo_url": "https://github.com/uclouvain/openjpeg",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "htslib.osv-2020-1301": {
+      "timestamp": "2025-10-24T20:30:07.834743",
+      "success": false,
+      "entry_id": "OSV-2020-1301",
+      "repo_url": "https://github.com/samtools/htslib.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-1180": {
+      "timestamp": "2025-10-24T20:32:07.848818",
+      "success": false,
+      "entry_id": "OSV-2023-1180",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2023-379": {
+      "timestamp": "2025-10-24T20:34:07.860093",
+      "success": false,
+      "entry_id": "OSV-2023-379",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libexif.osv-2021-1521": {
+      "timestamp": "2025-10-24T20:36:07.870137",
+      "success": false,
+      "entry_id": "OSV-2021-1521",
+      "repo_url": "https://github.com/libexif/libexif",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2021-1736": {
+      "timestamp": "2025-10-24T20:38:07.878034",
+      "success": false,
+      "entry_id": "OSV-2021-1736",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "php.osv-2022-181": {
+      "timestamp": "2025-10-24T20:40:07.887570",
+      "success": false,
+      "entry_id": "OSV-2022-181",
+      "repo_url": "https://github.com/php/php-src.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libavc.osv-2023-1378": {
+      "timestamp": "2025-10-24T20:42:07.896388",
+      "success": false,
+      "entry_id": "OSV-2023-1378",
+      "repo_url": "https://github.com/ittiam-systems/libavc.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-176": {
+      "timestamp": "2025-10-24T20:44:07.903860",
+      "success": false,
+      "entry_id": "OSV-2018-176",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libssh2.osv-2023-343": {
+      "timestamp": "2025-10-24T20:46:07.917145",
+      "success": false,
+      "entry_id": "OSV-2023-343",
+      "repo_url": "https://github.com/libssh2/libssh2.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2021-1370": {
+      "timestamp": "2025-10-24T20:48:07.930060",
+      "success": false,
+      "entry_id": "OSV-2021-1370",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "harfbuzz.osv-2018-91": {
+      "timestamp": "2025-10-24T20:50:07.942340",
+      "success": false,
+      "entry_id": "OSV-2018-91",
+      "repo_url": "https://github.com/harfbuzz/harfbuzz.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "sudo.osv-2021-413": {
+      "timestamp": "2025-10-24T20:52:07.958340",
+      "success": false,
+      "entry_id": "OSV-2021-413",
+      "repo_url": "https://github.com/sudo-project/sudo",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "capstone.osv-2024-1076": {
+      "timestamp": "2025-10-24T20:54:07.968965",
+      "success": false,
+      "entry_id": "OSV-2024-1076",
+      "repo_url": "https://github.com/capstone-engine/capstone.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "pcre2.osv-2024-309": {
+      "timestamp": "2025-10-24T20:56:07.980206",
+      "success": false,
+      "entry_id": "OSV-2024-309",
+      "repo_url": "https://github.com/PCRE2Project/pcre2",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2020-405": {
+      "timestamp": "2025-10-24T20:58:07.992269",
+      "success": false,
+      "entry_id": "OSV-2020-405",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "zstd.osv-2020-429": {
+      "timestamp": "2025-10-24T21:00:08.002680",
+      "success": false,
+      "entry_id": "OSV-2020-429",
+      "repo_url": "https://github.com/facebook/zstd",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "selinux.osv-2021-891": {
+      "timestamp": "2025-10-24T21:02:08.013010",
+      "success": false,
+      "entry_id": "OSV-2021-891",
+      "repo_url": "https://github.com/SELinuxProject/selinux",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "stb.osv-2021-1239": {
+      "timestamp": "2025-10-24T21:04:08.024366",
+      "success": false,
+      "entry_id": "OSV-2021-1239",
+      "repo_url": "https://github.com/nothings/stb.git",
+      "error": "Processing timed out after 120 seconds"
+    },
+    "libdwarf.osv-2022-389": {
+      "timestamp": "2025-10-24T21:47:15.407826",
+      "success": true,
+      "entry_id": "OSV-2022-389",
+      "repo_url": "https://github.com/davea42/libdwarf-code",
+      "fixed_commit": "24dff940cc4c71a9c3cb5475aee231b19163a12c",
+      "introduced_commit": "6af6e566ae71b585659484e7be7cbab83dd770fb",
+      "last_affected_commit": ""
+    }
+  }
+}

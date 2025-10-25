@@ -1,0 +1,30 @@
+Detailed report: https://oss-fuzz.com/testcase?key=5693360544677888
+
+Project: icu
+Fuzzer: libFuzzer_icu_collator_rulebased_fuzzer
+Fuzz target binary: collator_rulebased_fuzzer
+Job Type: libfuzzer_msan_icu
+Platform Id: linux
+
+Crash Type: UNKNOWN READ
+Crash Address: 0x7f8c94ee4a30
+Crash State:
+  icu_64::UCharsTrie::branchNext
+  icu_64::UCharsTrie::nextImpl
+  icu_64::UCharsTrie::next
+ 
+Sanitizer: memory (MSAN)
+
+Recommended Security Severity: Medium
+
+Regressed: https://oss-fuzz.com/revisions?job=libfuzzer_msan_icu&range=201906250235:201906260234
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=5693360544677888
+
+Issue filed automatically.
+
+See https://github.com/google/oss-fuzz/blob/master/docs/reproducing.md for instructions to reproduce this bug locally.
+
+This bug is subject to a 90 day disclosure deadline. If 90 days elapse
+without an upstream patch, then the bug report will automatically
+become visible to the public.

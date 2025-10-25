@@ -170,12 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# SEC-bench
-output/
-logs/
-workspace/
-projects/
-
 # VSCode
 .vscode/
 

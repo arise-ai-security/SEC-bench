@@ -1,0 +1,10 @@
+{
+  "commit": "1d5a2cd84eb828e1c3303c4053e5590f382516a6",
+  "files": {
+    "Dockerfile": "# Copyright 2020 Google Inc.\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this file except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#      http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\n################################################################################\n\nFROM gcr.io/oss-fuzz-base/base-builder\nRUN apt-get update && apt-get install -y make cmake\nRUN git clone https://github.com/danielaparker/jsoncons\n\nWORKDIR $SRC\nCOPY build.sh $SRC/\n",
+    "build.sh": "#!/bin/bash -eu\n# Copyright 2020 Google Inc.\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this file except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#      http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\n################################################################################\ncd jsoncons/fuzzers\n\n# Ensure script is executable\nchmod +x ./build_fuzzers.sh\n./build_fuzzers.sh\n",
+    "project.yaml": "homepage: \"https://github.com/danielaparker/jsoncons\"\nprimary_contact: \"danielaparker@gmail.com\"\nlanguage: c++\nauto_ccs :\n  - \"david@adalogics.com\"\nmain_repo: 'https://github.com/danielaparker/jsoncons'\n"
+  },
+  "date": "2021-05-30T21:44:19",
+  "cached_at": "2025-10-24T21:27:52.602485"
+}

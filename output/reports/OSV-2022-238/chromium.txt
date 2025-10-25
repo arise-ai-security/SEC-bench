@@ -1,0 +1,31 @@
+Detailed Report: https://oss-fuzz.com/testcase?key=5379310020591616
+
+Project: php
+Fuzzing Engine: honggfuzz
+Fuzz Target: php-fuzz-tracing-jit
+Job Type: honggfuzz_asan_php
+Platform Id: linux
+
+Crash Type: Segv on unknown address
+Crash Address:
+Crash State:
+  i_zval_ptr_dtor
+  zend_leave_helper_SPEC
+  zend_dispatch_try_catch_finally_helper_SPEC
+ 
+Sanitizer: address (ASAN)
+
+Regressed: https://oss-fuzz.com/revisions?job=honggfuzz_asan_php&range=202110190602:202110200605
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=5379310020591616
+
+Issue filed automatically.
+
+See https://google.github.io/oss-fuzz/advanced-topics/reproducing for instructions to reproduce this bug locally.
+When you fix this bug, please
+  * mention the fix revision(s).
+  * state whether the bug was a short-lived regression or an old bug in any stable releases.
+  * add any other useful information.
+This information can help downstream consumers.
+
+If you need to contact the OSS-Fuzz team with a question, concern, or any other feedback, please file an issue at https://github.com/google/oss-fuzz/issues. Comments on individual Monorail issues are not monitored.

@@ -1,0 +1,33 @@
+Detailed Report: https://oss-fuzz.com/testcase?key=5636479206948864
+
+Project: php
+Fuzzing Engine: honggfuzz
+Fuzz Target: php-fuzz-execute
+Job Type: honggfuzz_asan_php
+Platform Id: linux
+
+Crash Type: Heap-use-after-free READ 4
+Crash Address: 0x612000015f40
+Crash State:
+  zval_call_destructor
+  zend_hash_reverse_apply
+  shutdown_destructors
+ 
+Sanitizer: address (ASAN)
+
+Recommended Security Severity: High
+
+Regressed: https://oss-fuzz.com/revisions?job=honggfuzz_asan_php&range=202202180600:202202190611
+
+Reproducer Testcase: https://oss-fuzz.com/download?testcase_id=5636479206948864
+
+Issue filed automatically.
+
+See https://google.github.io/oss-fuzz/advanced-topics/reproducing for instructions to reproduce this bug locally.
+When you fix this bug, please
+  * mention the fix revision(s).
+  * state whether the bug was a short-lived regression or an old bug in any stable releases.
+  * add any other useful information.
+This information can help downstream consumers.
+
+If you need to contact the OSS-Fuzz team with a question, concern, or any other feedback, please file an issue at https://github.com/google/oss-fuzz/issues. Comments on individual Monorail issues are not monitored.
