@@ -173,5 +173,8 @@ cython_debug/
 # VSCode
 .vscode/
 
+# DS STORE
+**/.DS_Store
+
 # Backup
 *.bak
