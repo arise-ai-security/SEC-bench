@@ -87,7 +87,7 @@ class ValidationResultDict(TypedDict):
     exit_code: Optional[int]
 
 
-SECB_EVAL_BASE_IMAGE = "hwiwonlee/secb.eval.base:latest"
+SECB_EVAL_BASE_IMAGE = "hwiwonlee/secb.eval.base:20241001"
 TO_SKIP_IDS = [
     "libredwg.cve-2020-21813",
     "mruby.cve-2022-1071",
@@ -315,7 +315,7 @@ def build_eval_base() -> bool:
             f.write(dockerfile_content)
 
         # Build the Docker image
-        cmd = ["docker", "build", "-t", "hwiwonlee/secb.eval.base:latest", temp_dir]
+        cmd = ["docker", "build", "-t", "hwiwonlee/secb.eval.base:20241001", temp_dir]
         logger.info(f"Building base image with command: {' '.join(cmd)}")
 
         build_process = subprocess.run(

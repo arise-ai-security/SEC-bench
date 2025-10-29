@@ -528,7 +528,7 @@ def modify_dockerfile(
         if line.strip().startswith("FROM"):
             # new_lines.append(f"FROM {base_image}")
             # NOTE: We use the latest base image for now
-            new_lines.append("FROM hwiwonlee/secb.base:latest")
+            new_lines.append("FROM hwiwonlee/secb.base:20241001")
             continue
 
         # Skip existing checkout command if present
@@ -1312,7 +1312,7 @@ def generate_minimal_dockerfile(
     # Create the minimalized Dockerfile
     # NOTE: We use the latest base image for now
     # minimal_dockerfile = [f"FROM {base_image}"]
-    minimal_dockerfile = ["FROM hwiwonlee/secb.base:latest"]
+    minimal_dockerfile = ["FROM hwiwonlee/secb.base:20241001"]
     # Add apt commands if any were found
     minimal_dockerfile.extend(apt_commands)
 

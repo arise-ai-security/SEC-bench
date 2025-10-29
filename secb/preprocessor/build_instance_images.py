@@ -26,7 +26,7 @@ Options:
 
 Output:
     Docker instance images with naming convention:
-    hwiwonlee/secb.x86_64.[instance_id]:latest
+    hwiwonlee/secb.x86_64.[instance_id]:20241001
 """
 
 import argparse
@@ -102,7 +102,7 @@ def build_instance_image(instance: dict, process_idx: int = 0) -> tuple:
 
     try:
         project_name = get_project_name_for_oss_fuzz(repo)
-        target_image_tag = f"hwiwonlee/secb.x86_64.{instance_id}:latest"
+        target_image_tag = f"hwiwonlee/secb.x86_64.{instance_id}:20241001"
         with console_lock:
             logger.info(f"[Worker {process_idx}] Target image tag: {target_image_tag}")
 
